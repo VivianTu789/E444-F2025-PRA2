@@ -6,6 +6,9 @@ Activity 1.4:
 <img width="843" height="479" alt="image" src="https://github.com/user-attachments/assets/3e7f374a-76a0-4787-a9e2-3774fa075f5f" />
 <img width="828" height="480" alt="image" src="https://github.com/user-attachments/assets/7a336586-7a4e-4b44-968c-8d13078546d2" />
 <img width="854" height="520" alt="image" src="https://github.com/user-attachments/assets/294b1e7e-bdd7-4462-a14e-dbf8550fa105" />
+Docker:
+<img width="1836" height="713" alt="image" src="https://github.com/user-attachments/assets/2ddb0e8e-2896-4718-9284-13dd1d3a0ee7" />
+
 
 
 
